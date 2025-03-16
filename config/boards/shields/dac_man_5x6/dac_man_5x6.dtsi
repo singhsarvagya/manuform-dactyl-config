@@ -32,7 +32,6 @@
     };
 
 // Travis added A 1 row below, and made it the equals rather than comma. 
-// who is Travis? 
     kscan0: kscan {
         compatible = "zmk,kscan-gpio-matrix";
         label = "KSCAN";
